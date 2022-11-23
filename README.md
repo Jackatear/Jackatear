@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jackatear
-- 👀 I’m interested in running, cycling, climbing and Python!
-- 🌱 I’m currently creating a hangman app in Python and Flask
+- 👀 I’m interested in running, cycling, climbing JavaScript and Python!
+- 🌱 I’m currently creating a Sport Climbing Tracker
 - 💞️ I’m looking to collaborate on ... not sure yet...
 - 📫 How to reach me ... jack.mcatear@gmail.com :) 
 
